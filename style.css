@@ -1,0 +1,18 @@
+ul li{
+    list-style:none;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width:100%;
+    max-height:100%;
+    object-fit: contain;
+}
+ul li{
+    list-style: none;
+    font-size: 2.5vmin;
+    padding-top: 2vmin;
+}
