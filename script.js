@@ -1,5 +1,5 @@
  //AJAX Call to fetch API using XMLHttpRequest() object
- api_key="d9ead9d7"
+ api_key="d9ead9d7";
  document.getElementById("btn").addEventListener("click",display)
  function display(){
      const data=document.getElementById("text").value;
